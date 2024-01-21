@@ -1,2 +1,2 @@
 # My_Applicaiton
-Starter program for android application
+Starter program for android application course
