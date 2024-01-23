@@ -1,0 +1,23 @@
+Q) What other Layouts are available?
+
+   There are several different layouts in the main xml file. One of them is the ConstraintLayout, which is what we see by default. Examples of other layouts include
+   LinearLayout, FrameLayout, etc.
+
+Q) What UI elements can be used?
+
+   There are many UI elements in the android studio. In this particualar example, we can see that there is an elements that lets us swap between the text view and the
+   layout/design view of what we're building.
+
+Q) What else can happen after app launches?
+
+   Noteably, there is a certian sequence of events that get triggered when we launch an app. These include main activity creation, class (along with other things that
+   are being used) initialization(s), and also user interaction can also happen when the app is functional.
+
+Q) Why permissions?
+
+   The obvious use for set permissions is for security measures so that the data within the app are safe from attacks. There is also behaviour that can also be set to
+   trigger because of a certain permission. Ex: If someone has camera permissions then they should be able to use the camera functionality.
+
+Q) What permissions?
+
+   There are all kinds of permissions such as camera permissions, microphone permissions, internet permissios, etc.
